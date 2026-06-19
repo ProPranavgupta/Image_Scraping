@@ -51,7 +51,7 @@ Google-Image-Scraper/
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/google-image-scraper.git
+https://github.com/ProPranavgupta/Image_Scraping.git
 ```
 
 ### 2. Install Required Libraries
